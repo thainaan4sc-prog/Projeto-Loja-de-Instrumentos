@@ -1,5 +1,6 @@
 import Menu from "../componentes/menu";
 
+
 export const metadata = {
   title: "StudioMusic",
   description: "Sistema de Gerenciamento | Loja de Instrumentos Musicais",
